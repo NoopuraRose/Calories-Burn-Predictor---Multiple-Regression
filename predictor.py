@@ -16,7 +16,7 @@ print("Coefficient = ", cf)
 intercept = model.intercept_
 print("Intercept = ", intercept)
 
-# predicting new value with use input
+# predicting new value with user input
 duration = int(input("Enter the duration:"))
 heart_rate = int(input("Enter the heart rate:"))
 age = int(input("Enter you age:"))
